@@ -1,0 +1,21 @@
+$dark: #001e28;
+$yellow: #ffaf02;
+
+
+
+@mixin circleL {
+  font-family: "Circe-Light", sans-serif;
+  font-weight: normal;
+}
+@mixin circleR {
+  font-family: "Circe-Regular", sans-serif;
+  font-weight: normal;
+}
+@mixin circleB {
+  font-family: "Circe-Bold", sans-serif;
+  font-weight: normal;
+}
+@mixin robotoB {
+  font-family: 'RobotoSlab-Bold', sans-serif;
+  font-weight: normal;
+}
